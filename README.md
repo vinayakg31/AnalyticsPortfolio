@@ -1,1 +1,1 @@
-Data analytics projects using SQL and Python
+Data analytics projects using Python, SQL and Tableau
